@@ -1,0 +1,25 @@
+{
+  "cwd": "H:\\Study\\Personal Study\\2023\\10. Contact List Material You (Mobile)\\project",
+  "type": [
+    "capacitor"
+  ],
+  "name": "Contact List",
+  "framework": "vue",
+  "template": "single-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": true,
+    "iconFonts": true
+  },
+  "customBuild": false,
+  "pkg": "com.app.contact",
+  "capacitor": {
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  }
+}
